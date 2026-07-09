@@ -1,4 +1,4 @@
-# Lesson 11 - Shooter Game
+# The game code (can be modified)
 
 from pygame import *
 from random import randint
